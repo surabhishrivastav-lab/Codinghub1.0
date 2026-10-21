@@ -18,7 +18,7 @@ A professional, responsive café website template focused on clean UI design and
 
 ## Try it locally
 1. Clone the repo:
-   git clone https://github.com/surabhishrivastav-lab/codinghub2.git
+   git clone https://github.com/surabhishrivastav-lab/Codinghub1.0.git
 2. Open `index.html` in your browser or serve the folder with a static server (e.g., `npx http-server`).
 
 ## License & usage
